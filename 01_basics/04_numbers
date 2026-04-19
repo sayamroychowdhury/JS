@@ -1,0 +1,11 @@
+// const balance = new Number(100);
+// console.log(balance);
+// console.log(typeof balance);
+
+// console.log(balance.toFixed(1));
+
+// const hundreds = 100000000
+// console.log(hundreds.toLocaleString("en-IN"));
+
+// console.log(Number(Math.abs(-5)));
+console.log(Math.random()*10)

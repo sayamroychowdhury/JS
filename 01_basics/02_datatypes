@@ -21,7 +21,27 @@
 // let str3 = str1 + " " + str2
 // console.log(str3);
 
-let obj ={
-    name: "Sayam",
-    age: 23
-}
+// let obj ={
+//     name: "Sayam",
+//     age: 23
+// }
+
+// let myName = "Sayam"
+// let anotherName = myName
+// anotherName = "SRC"
+
+// console.log(myName);
+// console.log(anotherName);
+
+// let userOne = {
+//     name: "Sayam",
+//     age: 23
+// }
+
+// console.log(userOne);
+
+// let userTwo = userOne
+// userTwo.name = "SRC"
+
+// console.log(userOne);
+// console.log(userTwo);
