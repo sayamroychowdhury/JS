@@ -1,0 +1,27 @@
+// "use strict";
+
+// let name = "Sayam"
+// let age = 23
+// let isLoggedIn = true
+// let state = null;
+
+// //number, bigInt, string, boolean, undefined, null, symbol
+// console.log(typeof age);
+// console.log(typeof isLoggedIn);
+// console.log(typeof undefined);
+
+// let score = "33";
+// console.log(typeof score);
+// let valueInNumber = Number(score);
+// console.log(typeof valueInNumber);
+
+// let value = 3;
+// let str1 = "sayam"
+// let str2 = "src"
+// let str3 = str1 + " " + str2
+// console.log(str3);
+
+let obj ={
+    name: "Sayam",
+    age: 23
+}
